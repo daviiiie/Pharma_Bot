@@ -23,7 +23,7 @@ janela = messagebox #janela pop-up para ajudar o user.
 # --------------------------------------------------------------------------- #
 
 # ------------------ CONFIG ------------------ #
-NTFY_URL = "https://ntfy.sh/SISTEMA_PHARMABOT"   # tópico público: evite dados sensíveis nas mensagens
+NTFY_URL = "https://ntfy.sh/xxxx"                 #por questões de segurança, ocultei o topico.
 NTFY_TIMEOUT = 5                                  # segundos; ntfy nunca pode travar o bot
 LIMITE_MSG = 3500                                 # ntfy aceita ~4096 bytes por mensagem
 
